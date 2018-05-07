@@ -46,7 +46,7 @@ myRef.on('child_changed', function(snapshot){
     
     s17.innerHTML = data.SensorG;
     s18.innerHTML = data.SensorH;
-    s19.innerHTML = data.SensorH;
+    s19.innerHTML = data.SensorI;
 
 	stats.innerHTML = data.Status;
     
