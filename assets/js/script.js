@@ -11,7 +11,7 @@ var s16 = document.querySelector('s6');
 
 var s17 = document.querySelector('s7');
 var s18 = document.querySelector('s8');
-//var s19 = document.querySelector('s9');
+var s19 = document.querySelector('s9');
 
 var c = document.querySelector('clock');
 var stats = document.querySelector('st')
@@ -46,6 +46,7 @@ myRef.on('child_changed', function(snapshot){
     
     s17.innerHTML = data.SensorG;
     s18.innerHTML = data.SensorH;
+    s19.innerHTML = data.SensorH;
 
 	stats.innerHTML = data.Status;
     
