@@ -9,9 +9,9 @@ var s14 = document.querySelector('s4');
 var s15 = document.querySelector('s5');
 var s16 = document.querySelector('s6');
 
-var s17 = document.querySelector('s7');
-var s18 = document.querySelector('s8');
-var s19 = document.querySelector('s9');
+var s17 = document.querySelector('s9');
+var s18 = document.querySelector('s7');
+var s19 = document.querySelector('s8');
 
 var c = document.querySelector('clock');
 var stats = document.querySelector('st')
